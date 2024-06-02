@@ -1,0 +1,30 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "0.0.1",
+  "description": "Parcel-Boilerplate for Phaser 3 in TypeScript",
+  "keywords": [],
+  "devDependencies": {
+    "parcel-bundler": "1.12.5",
+    "parcel-plugin-static-files-copy": "2.6.0",
+    "typescript": "5.4.2"
+  },
+  "dependencies": {
+    "phaser": "3.80.1"
+  },
+  "scripts": {
+    "serve-dev": "parcel ./index.html -p 8080 --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitsensitive/phaser3-typescript.git"
+  },
+  "author": {
+    "name": "digitsensitive",
+    "email": "digit.sensitivee@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitsensitive/phaser3-typescript/issues"
+  },
+  "homepage": "https://github.com/digitsensitive/phaser3-typescript#readme"
+}
